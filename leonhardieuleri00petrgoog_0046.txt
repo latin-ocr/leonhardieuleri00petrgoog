@@ -1,0 +1,50 @@
+28 L. EULERI OPERA POSTHUMA. 1111111.
+
+231. Si divisor 1137, erit μ--6 totidemque habentur casus
+1.--1 632 6--3 1
+Progr. geom. ¹, ¹ ¹, 2, 2¹, 2⁸ ¹, 3, ³², 3“,Ἴ ³⁴, 3⁸, ³⁸ ¹, 1,
+Residua ¹, ¹ ¹, 2, 1, 1 1, 3, 2, 6, 1, 5, 1 1, 1,
+131 133 133
+
+31
+
+¹², ¹¹⁸
+2, 1
+
+135 136
+Progr. geom. ¹, 5, 5¹, 5⁵, 5⁴, δ’, 5· ¹, 6, 6*
+Residua ¹, 5, 1, 6, 2, 3, 1 1, 6, 1
+136 132
+
+232. si divisor d= 8, erit μ--1 totidemque casus
+131 133 135
+Prog. geom. ¹, ¹ ¹, 3, 3¹ ¹, 3, 5⁸
+Residua ¹, ¹ ¹, 3, 1 1, 5, 1
+1--1 132 132
+
+nullo ergo casu 1111 1 3 μ, sed tribus 1 =÷ μ, et uno casu 1εὲ μ.
+
+233. Si divisor sit 1¹:¹¹, erit 136 totidemque casus
+
+132
+-1,2,Ψ,Ψ,Ψ,Υ,Υ
+
+Progr. geom„ ¹, 5, 5², 5⁸, 5⁴, 5³, 5ε ¹, 7, 7², 7⁸
+nesidua ι, 5, ⁷, s, 1, 2, ¹ ι, ⁷, 1, ¹
+’ 136
+
+231. si sit divisor d: 10, erit με-1
+
+131 133 137 139
+Progngeom. ¹, ¹ ¹, 3, 3¹, 3⁸, 3ι 41, 7, 7¹, 7⁸, ¹⁴ ¹, 3, 3*
+Residua ¹, ¹ ¹, 3, 9, 7, 1 1, 7, 3, 3, 1 1, 3, 1
+131 131 ’
+
+235. Sit d: ¹¹, erit 1310 totidemque casus
+131 132 133
+1103131011. ¹, ¹ ¹, 2, 2², 2⁸, 2⁴, ¹⁸, 2⁸, 2⁷, 2⁸, 2⁹, 2³⁰ ¹, 3, ³¹, 3⁸, 3⁴, 3⁸
+Residua ¹,¹ ¹, 2, 1, 6, 5, 10, 3, 7, 3, 6, 1 1, 3, 3, 5, 1, 1
+n=¹ n=¹0 n=5
+
+ 
+

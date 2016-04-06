@@ -1,0 +1,55 @@
+16 1111111 OPERA Posxflultn. immnuta.
+
+1211. Simili modo si o=5p, numeri, qui cnm 1 communem babent divisorem, suut primo
+omues per 5 divisibiles, quorum multitudo est :=p, 11 praeterea qui perp sunt divisibiles, nempe
+p, 21, 1111111 ipse enim numerus 5p jum ente est notetus: unde multitudo numerorum 1111
+compositorum est‘p-v- t, ideoque multitudo numerorum ed a primorum = vp-t=t (p- l),
+
+' qui scilicet ipso o non suut majores.
+
+121. Generalius si sit u: pq, existente utroque lectore p et q primo, eb unitate 1111 dentur
+p numeri per q divisibiles, scilicet q, 21, 31. . .pq; deinde duntur quumeri per p divisibiles, scilicet
+p, 211, 311,. . .qp, quorum ultimus qp jem est numeratus. Multitudo ergo omnium numerorum a non
+superantium, qui 1111 sunt compositi, erit =p-r-q- t, uude reliqui, quorum multitudo est
+Ξ11-1-111---11-1)(1-11»
+cd u erunt primi.
+122. Η11 autem pro p et q numeros primos diversos sumsimus. Num si esset o: pp, 1111
+
+numeri 1111 111 111111 compositi, nisi qui sunt perp divisibiles, quorum multitudo cum sit = p,
+
+reliquorum, qui 111 1 sunt primi, multitudo erit :pp- p = p (p - 1).
+
+123. Simili modo si sit (ιτ-ρ’, 1111 alium divisorem primum praeter p non hebet, omnes
+numeri ab 1 ad o, 111 o compositi sunt p, 211, tp. . . .p²p, quorum multitudo cum sit p², reliqui
+numeri omnes, quorum multitudo est p⁸-p²=p²(p- 1), 111 1 11111 primi.
+
+121.Ι Η111 11 genere patet, si a luerit potestas quaecunque p'¹ numeri primi p, multitudinem
+Ι numerorum edo primorum, qui quidem ipso o non sint majores, lore = 11”““ι (11- 1).
+
+125. 811 u=p²q, existentibus p 111 numeris primis diversis, et cum aelios non 11111111
+divisores primos praeter p et q, numeri 111 1 compositi vel erunt per p divisibiles, qui suut
+p, 21, dp. . ,pq.p, multitudine = pq, vel perq divisibiles, qui suntq, 21, 31,. . .p².q multitudine
+=p². lnter hos vero occuruut, qui ibi jum suut numerati pq, 2111, 3111. . .p.pq multitudine =: p,
+111 11 multitudo omnium 111 compositorum sit =pq÷p² - p. Quare reliqui, quorum multitudo
+
+est ,=ppq--pq-pp-v-p=p(p- 1) (q- 1), omnes ed o erunt primi.
+
+126. Sit 1 a pqr, existentibus p, q, r numeris primis diversis, ec numeri 111 o compositi
+sunt divisibiles
+
+1) perp, scilicet ρ,2ρ,311...1ν.ρ multitudine qr
+
+2) vero e 1, 21, 31111 1 er·
+
+3) perr, 1 r, 2r, br...pq.r 1 pq.
+llic autem bis numerantur divisibiles per pq multitudine r, tum divisibiles per pr multitudine q,
+11 denique divisibiles per qr multitudine p, qui inde auferantur3 11 hoc modo numerus ipse pqr·
+penitus tolleretur, qui ergo iterum est adjiciendus. Sicque multitudo numerorum 111 1 compositorum
+erit qr-v-pr-v-pq-r- q-p-t- 11 unde reliqui, quorum multitudo est
+
+pqr-qr-pr·-pq÷r-v-q-v-p- t=(p-l) (q- 1) (r- 1),
+adnumerum 1.- pqr erunt primi.
+127. Ex his colligetur pro omnibus numerorum generibus lore
+
+ 
+

@@ -1,0 +1,70 @@
+1
+
+Tractutas de numerorum doctre'reo Cap. 2. Ι 9
+
+= 611. Casus autem hic seorsim est perpendendas, quo ambo sactoresp et 1 sunt inter 11 aequales,
+quoniam eundem numerum non bis inte'r divisoresnumerare licet. llinc numeri pp, qui sunt quadrata
+numerorum primorum, tres tantum habent divisores 1, p et pp.
+
+65. llanc ob cansam numeros secundae classis in duas species subdividi convenit, quarum prior
+continet numeros lormae pp et divisores habet tres 1, p, pp; altera vero species continet numeros
+lormae pq, denotantibus litteris p, q numeros primos diversos. liujusque speciei numeri habebunt
+
+, quaternos divisores l, p, 1, 111.
+
+66. Simili modo classis tertia subdividi debet in tres species, quarum formae sunt p³, p²q, pqr,
+siquidem p, q, r denotent numeros primos diversos, vel enim omnes tres lectores sunt aequales
+vel bini tantum, vel omnes tres inaequales.
+
+67. Ρ1·ο tertia autem classe numerorum
+
+speciei primae p³ divisores erunt quatuor 1, p, p², p⁸,
+
+secundae p²q ’ sex 1, p, q, p², pq,p²q,
+
+¹ tertiae pqr octo 1, p, q, r, pq, pr, qr, 1111,1
+neque praeterea alii divisores locum habere possunt.
+
+68. Classis quarta, quae numeros quatuor lectoribus primis constantes continet, prout horum
+factorum bini, veltres, 111 omnes quatuor suerint aequales, subdividendo est in quinque species,
+quarum lormae sunt 1. p⁴, 11. 1131, 111. p²q², lV. p²qr, V. pqrs.
+
+66. Jam lacile erit omnes divisores cujusque speciei in classe quarta enumerato:
+
+Speciei: divisores erunt
+
+l. p⁴ quinque: 1, p, p², pl, p⁴,
+
+11 111 octo 1, r, 1» 1111, 11 1111111,
+
+111111 novem: ¹21⁰, a, 1111, a'· 1111111111
+
+lV. p²qr duodecim: 1, p, q, r, p², pq, pr, 11, 1111, p²r, pqr,p²qr‚
+
+V. pqrs sedecim: l,p, 1, 1, s. pq,pr, 111,11, 11, 11, 1111,1111,1111,111,11111.
+70. ln classe quinta, qnae numeros er quinque factoribus primis compositos complectitur, ob
+
+aequalitatem aliquot sactorum, sequentes species constitui oportebit:
+1. p‘, ll. p⁴q, 111. p⁸q², 111. 11111, V. p²q²r, Vl. p²qrs, Vll. pqrst.
+’11. Tum vero singularum harum specierum divisores ita enumerabuntur:
+
+Specici: divisores erunt
+
+1· P⁵ ⁸⁰¹² 111111111111111411111
+
+11· 11111 decem l,p, ‘l’ Po, Pis 1³³² P²q‚P⁴‚ P3‘l' P⁴l2
+
+m· 1181Ἄ d¹¹⁰d⁰⁰lm² 11111 qu²³qu (11118111111111111113111ΡῃΙἎνΡδἸἏ,
+
+W· r⁸rr wdecim ¹, 111, o 1⁹², ro ro 11, 11 elo 111, 111111, 111, 111, roa
+
+V· 1111Γ 1111111111 1, r, oo 1111, rr, ab «1, 111, 11111111, rr, r²o²‚
+ro, 111, 11111
+
+Vl. p²qrs vigintiquatuor: 1, p, q, r, s, p², pq, pr, ps, qr, 11, 11, 1111, p²r, p²s‚ W,
+pqs, prs, 111, p'qr, p²qs, p²rs, 11111, 111111,
+
+11. Balari Oppoatbnroe. ’1.1. 2
+
+ 
+

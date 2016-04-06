@@ -1,0 +1,59 @@
+Tractatus de nummorum doctnira Cup. 7. 25
+
+203. Si uon omues numeri ad d primi eoque minores, quonum multitudo est = μ, inter
+residua, quorum multitudo est = n, occurrant, eos, qui ex ordine residuorum excludrmtur, nomine
+
+non-rosidoormn appellabo, ita ut multitudo residuorum u cum multitudiue nou-residuorum exhaurire ·
+
+debeat numerum μ.
+
+aot. Si iu serie residuorum l, α, β, γ, etc. occurrant numeri r et s, iu ea quoque occurret
+numerus rs, scu residuum ipsi aequivalens. Si enim residua r et s respondeant potestatibus bp et
+tr, potestati ὂψ respondebit residuum rs. Hiucqne iuter residua occurret numerus ussi, sumtis
+exponentibus f et 9 utcunque.
+
+205. Vicissim si potestati bi conveniat residuum r, potestati vero ὁρψσ residuum rs, vel
+
+rar-id, tum potestati b⁰ conveniet residuum s. Nam producto bis conveniet residuum rs, idem
+quod potestati bi÷⁶3 binc differentia 001141330ρῷἋή per d erit divisibilis. Quare cum bi
+nd d sit primus, necesse est sit δ”-ν perd divisibile, sicque potestati b⁶ respondebit residuum s.
+
+206. Si ergo numeri ν {et rs iuter residua reperiantur, certum est et numerum s ibidem
+repertum iri. Quodsi jam series residuorum 1, α, β, γ, δ, etc„ quorum uumerus est ενι, uon
+omues numeros ipso d minores, ad eumque primos complectatur, quorum multitudo est = μ,
+dabitur uuus pluresve, quos in classem nou-residuorum relerri oportet.
+
+207. Sit c tale nou-residuum, ac manifestum est etiam bos numeros um, βω, yn, dac, etc.
+iuter uon-residua reperiri, narn si aa in residuis inveniretur, qnia α ibidem extat, etiam a· ibidem
+reperiri deberet, contra hypothesin. Ex unico ergo uonssresiduo necessario sequuntur tot nou-residua
+quot habentur residua, scilicet numero n. Sunt enim haec nou-residua iuter se aeque disparia ac
+ipsa residua 1, α, β, y, δ, etc. acsi ibi duo aequalia darentur, etiam bic talin esse deberent, quod
+
+loret absurdum (ii). ’
+
+208. Statim arguatque est νκμ, ad minimum dant'ur n nou-residua, qnae si omnia cour·
+plectantur, erit tam residuorum quam nou-residuorum numerus :n-r-n, ipsi μ aequandus, uude
+
+fit ηεξ-ς binc si rr < μ, fleri nequit, ut numerus residuorum rr semissem numeri μ superet
+
+209. Si iu modo expositis uon-residuis ω, uc, βω, yn, otc. nou omnia occurrant, sity
+uumerus <d ad eumque primus, qui neque iu¹ bis non-residuis nequo residuis reperiatur, atque
+simili modo etiarn bi numeri ny, βγ, γγ, etc. a praecedentibus diversi, ad non-residua referri
+debent, sicque denuo n numeri ad nou-residua accedunt.
+
+210. Sibis duobus ordinibus nondum omnia nou-residua exhauriantur, novus ordo accedet,
+pariter n terminis constans, ac fortasse denuo novus totidem constans terminis3 uude colligitur
+numerum omnium uon-residuorum, nisi sit nullus, vel ipsi nurnero n, vel ejus duplo, vel triplo, vel
+in genere multiplo cuicunque aequari. ,
+
+211. Cum igitur omnia nou-residua una cum residuis multitudinem omnium numerorum ipso
+divisore dmiuorum ad eumque primorum exhaurire debeant, erit vel n= μ, rel 2n= μ, vel
+aa: μ etc. sicque semper exponens n est pars aliquota numeri μ.
+
+(⁴¹) Seript. od murp. si c etp uon-residua, erity=ucet uy=ucc3 iamsi numerus nou-residuorum
+= numero residuorum, demonstrandum est un inter residua contineri.
+
+ι. xererr cernuum r. r. b
+
+ 
+

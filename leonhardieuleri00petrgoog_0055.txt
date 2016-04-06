@@ -1,0 +1,53 @@
+Tractutus de numerorum doetrr'rro Cup. 10. 37
+
+praebere :=t. Quod quidem jam ostendimus, nam si ιιι ex quadrato nuloriatur, erit m=no-lr(2p-r-t);
+ιι rap-l manifesto per numerum primum 2p÷t est divisibile.
+
+230. Sed ad residua quadratorum revertentes notemus, si ibi occurrent numeri ιιι ιι mu, tum .
+
+etiam necessario ibidem numerum ιι reperiri debere. Si enim residuum ιιι oriatur ex quadrato aa, et
+ιιιιι ex quadrato bb, ex unu quoque residuum ιιιιι nascetur, unde bb- ιιιι per 2p÷t erit divi·
+sibile‚ existentibus a et b ad 2p÷r primis. Ἰ
+
+300. At si bb -ιιαι divisibile est per 2p-r- t, etiam (ι-ι-ιιι2ρ-ι- ιη’-ιιι ιιιι divisibile.
+Semper autem t ita assumere lieet, ut liat b-r-ls(2p÷ l) = uo, seu ut lr(‘2p-r- l) per o divisum*
+relinquat b. [labitur ergo numerus c, ut sit oace- ιιιι, boc est ιι - ιι per 2p÷r divisibile,
+quare quadratum ιι dabit residuum ιι.
+
+301. Si in ordine residuorum sit numerus α, nou-residuorum vero numerus 21, prodnetnm'
+ait in ordine non-residuorum certe reperietur. Si euim in ordine residuorum esset, ibidem quoque
+soret οί, contra hypothesin.
+
+302. Si in ordine residuorum occurrat productum aru, ejusque alter lactor ιιι in ordine non·
+residuorum, alter quoque ιι ιιιιι in eodem ordine nnn-residuorum reperietur3 si enim bio ιι esset
+in residuis, eodem quoquo m pertineret.
+
+303. Si duo non-residua it et m in se ducantur, productum incidet in ordinem residuorum.
+Nam cum in ordine residuorum omnia quadrata occurrant, primo evidens est omnia quadrata 21²,
+W, Ψ, ιιι. ibi esser quod vero etiam producta binorum itui ibidem reperiantur, ulteriori indiget
+probatione jam instituenda.
+
+sot. Cognitis residuis l, α, β, y, ιιι, quornm numerus est = p, divisore ¹primo existente
+ip-r-t, non-residua quidem eo ipso dantur, oum sint reliqui numeri minores quam 2p-r-l, quornm
+numerus itidem est = p. dt dato uuo non-residuo οι, reliqua omnia ex ipsis residuis ita determi-
+uantur, ut siut il, ait, uit, 721, eto, reductione seilicet ad minimos terminos iaetu. Sunt enim bi
+numeri inaequales inter se, eteorum multitudo =p.
+
+305. Duo igitur quaecunque nou-residua Q et 0 spectari possunt tauquam hujusmodi producta
+tu et eit, existentibus ὂ ιι e residuis, 'livero non-residu03 unde productum duorum quorumvis
+non-residuorum erit 030 = διοιοι, ubi δι utpote productum duorum residuorum in ordine residuorum
+reperitur.
+
+300. Tum vero iu ordine residuorum occurrit etiam itti. ¹quia in eo omnia plane quadrata,
+seu residua aequivalentia reperiuntur. Quare eum tam δι quam tiit sit residuum, eorum productum
+quoque Μ residuum sit necesse est, sicque productum duorum quorumvis non-residuorum certe
+in ordino residuorum continetur.
+
+307. Combinatio ergo duorum numerorum pro indole residuorum et non-residuorum ita se babet:
+
+l. Productum ex duobus residuis est residuum.
+2. Prodnotnm ex residuo ιι non-residuo est uon-residuum.
+3. Productum ex duobus non-residuis est residuum. ³ Ι
+
+ 
+

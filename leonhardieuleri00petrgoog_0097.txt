@@ -1,0 +1,54 @@
+[οἱ relatrbe ὰ Ia somme der booron der bombos.- , 79
+
+IV. S'il urrire que le terme s⁰ se reueontre dens certe furnulo, comme su vuleur est
+
+· indbbermiuo'e en elle-meme, il funt, dans chaque eus, nu lieu de sb, mettre le nombre pro-
+
+posb meme.
+
+§b Ces choses remarquees, n ne sero pus difficile de faire l'applieabion de eene sormuleb
+chaque nombre proposb et de se conruinere de sa verite, par autaut d'eremples qu'on voudm dere-
+lopper. Et comme je dois avertir, que je ue suis pos en etat de donner une demonotrution riguu-
+reuse de cette loi, je brai voir su justesse par uu assez grand nombre d'exemples: ’
+
+sr=so=r, Ι
+
+s2=sl÷s0=1÷2=ffi
+
+s3=s2÷sl=3÷1==b,
+
+sb=s3÷s2=b÷3=L
+
+s5==sb÷s3-s 0=7÷b-5= 6,
+
+sb=s5÷sb-s 1=6÷7-r=·12,
+'sr=so÷s5-s2-so=m÷ o- o- r= o,
+s8=s7÷s6-s3-sl=b-r-12-b-1:15,
+
+so=s o÷sr-sr-s2=15÷ 8- ⁷- 3:¹³,
+
+sro=su÷s o-s ⁵-s 3--'ro÷15- o- ¹4:18,
+s11=s¹0÷s9-s6†sb=18÷13—12-7:12,
+s12=srr÷sro-s r-s 5÷so=rn÷1o- o- o÷re=no
+sra=s12÷s1¹-s8-s6÷sr=28÷12-15-12÷ r=rb‚
+s1r=sre÷s120so-sr÷s·2=ro÷2o-ro- o÷ 3:24,
+s15=srr÷s13-sro-s8÷so÷so=ur÷u-ro-15÷ u÷15=2r, -
+sbb=s15÷slb-sl‘1-s9-r-sb-r-slz2b-r-2b-12-b3-r- 7-r- ¹:3¹,
+
+, srr=sro÷s15-s12-s10÷s5÷s2=31÷2u-28-18÷o-r- ³:18,
+s18=s17÷s16-s13-s11÷so÷s3=ro÷3¹-1n-12÷124⁵2:39,
+sre=sro÷srr-sru-srn÷sr÷sr=3u÷ro-nr-no÷ o÷ 7:20,
+sno=sro÷sro-srr-'sro÷so÷s5:eo÷3o7-2r-rr÷rr÷ o=re -
+
+Je crois ces exemplos suffisantr pour prourer quo l'oecord de mo ruglo avec lu veruo ue peut nul-
+
+lement erre attribue au hasard seul.
+
+§ 7. Si nbanmoins on objectait, que ces exemplos ne prouvont que lo justosse des sir premiere
+termes de notre suite: 1, ,2, 5, 7, 12, 15. et non celle de la lor de progressiou, telle que je l’ai
+indiqubo, il suffire de eboisin pour verffier cette loi, quelques exemplos de pbus grands nombres:
+
+1. Son propone le nombre ¹01 dont ou venille obercher lo somme des diriseurs, eron nuru:
+
+ 
+

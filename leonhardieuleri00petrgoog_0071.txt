@@ -1,0 +1,63 @@
+1111111111 dc nummorum 1111111111 Cap. ¹2. ' 53
+
+120. ’ lloo ergo casu, quo divisor est = tq - 1, residua biquadratorum cadam praedita suut
+proprietate, atque residua quadratorum, quin etiam cum iis plane convenirent pro eodem divisore.
+
+Omnia enim residua biquadratorum iu residuis quadratorum continentur, et cnm multitudine sint Ι.
+
+paria, prorsus eadem sint necesse est, unde hic de residuis et non residuis eadem valent, qnae
+supra exposuimus.
+
+121. Sit jam divisor primus laq-r· 1, et residua 1, α, β, y, δ, etc. omnia hanc hahent pro-
+prietatem, ut al-t divisibile sit por Ι11]-1-1. llaec quidem residua etiam continebuntur iu resi-
+
+duis quadratorum pro eodem divisore req-et, at vicissim, non omnia residua quadratorum simul sunt
+
+residua biquadratorum, quod ita ostenditur.
+
+122. Quodvis residuum quadratorum per ω’ potest repraesentari, quod si esset residuum biqua-
+dratorum, soret aet-1 ,divisibile per tq-r-t, denotante m numerum quemcunque minorem divisore3
+nempe ¹²⁹-1, 2²⁹-r, ³²⁹-r, t29-1,....(2q)²⁹-r dividi possent per tq-r-l, quodcum
+fieri nequeat, non omnia quadrata in¹ residuis biquadratorum occurrunt.
+
+123. 5111α in residuis biquadratorum non occurrat, ibidem non occurrent qnoque aff, flee',
+γε’, ὄπ’, etc, quae cnm sint residua quadratorum, patet iu residuis quadratorum, quorum multitudo
+est eq, tot ad minimum csse non-residua biquadratorum, quot luerint residua biquadratorum uude Ι
+patet multitudinem residuorum biquadratorum vel esse = q, vel adhuc minorem, quod posterius
+autem lieri nequit.
+
+121. Quo haec facilins evolvere liceat, divisores simpliciores formae tq÷t examinemus, et
+1111 residua quam non-residua biquadratorum consideremus:
+
+pro divisore 5 13 17 23
+residua 1 1, 3, 3 1, 1, 13, 16 1, 16, 23, 21, 20, 7, 25
+2 2, 6, 5 3,12, 5, 11 2, 3, 17, 13, 11,11, 21
+{t 1,12, 10 3, 2,15, 8 1, 8, 5, 3, 22, 28, 13
+3 8,11, 7 10, 6, 11, 7 8, 12, 10, 18, 15, 27, 26
+pro divisore . 37
+residua 1, 16,Ι 3, 12, 33, 13, 26, 31, 7
+
+2, 32, 11, 31, 23, 15, 21, 20, 18
+uon-residua {lq 27, 28, 25, 21, 30, 11, 3, 36
+
+8, 17, 13, 13, 5, 23, 22, 6, 35.
+
+125. Ex his exemplis videmus numerum residuorum esse = q, wem jam demonstravimus
+
+nou-residua
+
+majorem esse non posse. Non-residuorum numerus triplo est major, quae in ternas classes distinximus,
+curn cujusvis classis ,numeri peculiaribus proprietatibus gaudeant. Ι
+126. llas tres classes commodissime ita constituere licet: cum dentur quadrata in residuis nou
+
+occurrentia, sit acu tale quadratum et certum est neque 1, neque ω’ in residuis reperire posse. Si
+ergo residua sint 1, α, β, y, δ, e, etc. ternae non-residuorum classes erunt:
+
+l. ae, αω, βω, pm, dm, etc.
+
+ll. ω’, aff, siff, η’, do', etc.
+
+lll. ω’, uo‘, βωξ γωδ, dcc‘, etc.
+
+ 
+

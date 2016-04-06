@@ -1,0 +1,44 @@
+. x. aunum orme rosunum.
+
+xur. '' ’
+
+Series maxime idoneae pro cl'r'csffl quadratura proxime invemenda. 1
+
+1. Antequam Analyseos infinitorum principia essent perspecta, nulla alia via rationem peripheriae
+ad diametrum explorandi, patebat, praeter considerationem polygooorum circulo cum inscriptorum
+tum circumscriptorum. Ex quo lonte primum Archimedes notissimam proportionem 22 ad 7, tum
+vero Metius, veritati propiorem 355 ad titelheim donec tandem Ludolius a Geulen hanc prn-
+portionem ad 35 figuras in partibus decimalibus produxit, quem stupendum et molestissimum laho- Ι
+rem certe rix ulterius prosequi licuisset. Deinde vero, cum, Analysis' infinitorum ope, series idoneae
+rationem diametri ad peripheriam exprimentes essent exhibitae, multo minore labore ratio Ludoliiaaa
+multo longius, primo scilicet a Scharpio ad 72, tum vero a Machina ad 100, ac deniquea
+Lagnio · ad 120 figuras decimales est continuatar ex qua ratione si circumferentia circuli, cujus
+diameter distantiam stellarum fixarum maxime remotarum superaret, computaretur, ne millesima qui· ¹
+dem pollicis parte a veritate aberraretur. '
+
+2. Assidui autem hi calculatores, quorum industria summam meretur laudem et admirationem,
+omnes usi sunt serie, qua arcus circuli ex tangente delinitur, ita ut posita tangente = t, radio
+
+existente = 1, arcus respondens ait
+
+=t-}t⁸-r-—}t⁵-÷t⁷·-r-}t⁹-eto.,
+
+quae series utique maxime convergens reddi posset, si tangentem 1 pro lubitu diminuere liceret.
+Verum cum hinc ratio diametri ad peripheriam concludi nequeat, nisi arcus ille ad totam periphe-
+
+riam assignabilem et cognitam teneat rationem, vix minorem ¹arcum in hunc finem accipere licet,
+quam 30⁰, cujus tangens est {5³ unde denotante a peripheriam circuli, cujus diameter est ,²²¹' iit
+
+π 1 1 1 1 1 1
+s²·e(¹-ss÷sn·r.e÷a:e³·nns÷⁰i⁰·)· ,
+
+1 1 1 1 1
+
+seu ³²(1'U*W“W*U’W4⁶t⁰')V¹2‘
+
+Etsi enim angulus 18⁰, cujus tangens est V(i -2V-;-), seriem multo magis reddat convergeotem,
+duplex tamen irrationalitas caleulum tantopere molestum reddit, ut nullum iude compendium sperari
+possit, quae molestia pro minoribus angulis multo magis increscit. ’
+
+ 
+

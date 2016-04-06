@@ -1,0 +1,55 @@
+10 L. EULERI OPERA Posrflutrn. 1111111111.
+
+Vll. pqrst triginta duo: r‚p, q, ηε, 1, pq, pr, pr, pt, qr, qs, qt, rr, rt, rt, pqr,
+
+pqr, pqt, prr, prr, prt, qrr, qn, qrt, 111, pqrr, pqrt, pqst,
+prrt, qrat, pqrrt.
+
+72. Simili modo reliquarum classium species constituentur, singularumque specierum divisores
+omnes assignabuntur. Simul autem hac ratione patebit natura singulorum divisorum, atque 1111
+classis qnam species, quorsum singuli sunt referendi.
+
+73. Si numeri Ν divisores sint: 1, α, β, y, d‚. . .N, isque multiplicetur per numerum pri·
+mum p, qui in eo nondum contineatur, tum productum ll⁷p practerx illos divisores 1, α, β, γ, (1,...11
+insuper eosdem perp multiplicatos p, op, βρ, γρ, dp. . .Np pro divisoribus habehit, ideoque numerus
+divisorum duplo erit major.
+
+71. At si ille numerus N per quadratum numeri primi p, qui in ipso non insit tanquam lactor,
+multiplicetur, numerus divisorum triplicabitur. Primo enim productum Np² eosdem habebit divisores
+quos numerus N, tum vero eosdem perp multiplicatos, ac tertio cosdem per p² multiplicatos.
+
+rt. Simili modo sip sit numerus primus in Nnon contentus, numerusque Nper p⁸ multi-
+, plicetur, productum Np³ habebit primo omnes divisores numeri ll, deinde eosdem per p, porro
+eosdem per ρ’, ac denique eosdem per p⁸ multiplicatos, quo pacto multitudo divisorum producti ,
+ι1118 quadruplo major est quam numeri Ν.
+
+76. Atque in genere si numeri N multitudo divisorum sit =m, isque per potestatem pr
+, numeri primi p multiplicetur, producti Np² multitudo divisorum en't (λ -s- 1) m; ubi notasse juvebit
+ipsius potestatis p² multitudinem divisorum esse i÷ 1.
+
+77. Η111 patet regula facilis multitudinem divisorum cujuscunque numeri deliniendi: Sit enirn
+p²q¹²r⁹35 lorma numeri propositi3 et quia numeri p² multitudo divisorum 1111-1-1, erit numeri
+qun multitudo divisorum (λ-ι- 1) (μ-ι- l), hujus vero numeri p³ql⁴r⁷ erit
+
+(1-1-1) (μ-1-1) (1-1-1), porroque hujus Ptanvffi erit (λ-ι-ί)(μ·1-1)(ν-1-1)(ξ-1-1).
+
+Classis autem, ad quam hic numerus est relerendns, indicatur numero λ-ι- μ-ι-ν-ο-ξ, qui est
+
+- summa exponentium. ’
+
+. 78. lnliniti ergo numeri exhiberi possunt, quornm multitudo divisorum sit data. Si enim
+multitudo divisorum sit =n, existente enumero primo, numeri quaesiti in hac lorma p‘¹·¹ con·
+tinemut, denotante p numerum primum quemcunque.
+
+79. Si o, o, c, d, etc. denotentnumeros primos, pariter ac litterae p, q, r, s, etc, numeri,
+quorum multitudo divisorum est ob, sent 111 p⁰b*¹, vel p‘¹·‘¹q‘'·¹; quorum autem multitudo
+divisorum est nbc, ii'sunt vel p‘¹²‘⁶’¹, vel p“b‘·¹q⁶·¹, vel p⁰⁶·¹ql·¹, 111 pb⁶·¹q‘''·¹, vel
+
+p⁰'¹q²'’¹r⁶··¹, ubi litterae o, b, c, etc. eundem quoque numerum primum significare possunt,
+dnmmodo litterae p, q, r, etc. significent diversos.
+
+80. llinc ei multitudo divisorum sit =2, soli numeri primi satisfaciunt, seu numeri in lr'ac
+lorma p contenti. Tum vero siluerit
+
+ 
+

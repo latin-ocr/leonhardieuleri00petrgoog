@@ -1,0 +1,58 @@
+en ι. nunant orum rosruuul. , ranna-a.
+
+tat. Ope barum regularum er singulis residuis divisoris primi 2ρ-ι-1 tetidem residua divismis
+l(2p-r-l) reperiuntur; unumquodque enim vel ipsum, vel auctum numero tp÷ l', vel 2(2p-r- 1),
+vel 3(2ρ-ι-1), ut prodeat numerus formae lq-r- l, erit residuum divisoris t(ap -ι- 1).
+
+525. Er quovis autem residuo divisoris ape-1 unum queque non-residuum pre divisore
+t(2p÷ 1) elicitur, lormae tq-r; tum vero er quovis non-residuo divisoris 2p÷l bina nun-
+residua pro divisore t(2p-r- 1) prodeunt; si enim illud sit par, addendo 2ρ-ι-1 et 2(2ρ-ι-1), siu
+sit impar, addendo u et 2(2ρ-ι- 1) due non-residua obtinentur.
+
+De divisore 8(2p-e- t)=‹t.
+
+526. llic semper octo dantur numeri minores quam d, quorum quadrata per d divisa relinquunt
+idem residuum, scilicet unc numero· existente u, reliqui septem suut
+
+2(2p-r-l)‡u,‚ tqtp÷1)‡a, ii(·2p-r-l)‡u, 8(2ρ-ι-1)-ιι
+
+neque plures exbiberi possunt.
+
+527. Quare cum multitudo numerorum, ipsu d minorum ad eumque primorum sit =t. 1 ‚2p=8p, 3
+
+horumque octoni idem praebeant residuum, manifestum est numerum residuorum diversorum fore ⁴
+= p, neu-residuorum vern =7p. ¹
+
+ι 528. Deinde patet iuter residua occurrere uon pesse ullum numerum formae iq- i, vel j
+
+“ . alterutrius hujus 8q- 1, tq - 53 neque vero etiam inter residua esse potest uumerus lermae
+
+8q-r-5, propterea quud foruna aec-(spes) nunquam per 8 neque ergo per 8(2p'-r·l) dividi ι
+
+potest, quia est msc: 8n÷l ob ω imparem.
+
+529. Alia igitur residua non locum babent, nisi quae sint lnrmae 8n-r—l, et quia divisor
+
+est iiip-r-8, pro n sumi possunt omnesnumeri ab 0 usque ad 2p. At ex lnrma 8n÷l excluditur ’ ἐ
+vel 2ρ-ι-1, vel 3(2ρ-ι-1), vel 5(2ρ-ι-1), ιεΙ’7(2ρ-ι- 1), quae scilicet est formae 8n-r-i, itu ,
+
+ut tantum 2ρ hujusmodi numeri relinquantur, quorum autem semissis solmn residua constituit.
+
+530. Ex bis autem numeris formae lin—r- l, quorum multitudo est 2p, si unicus constet,
+qui sit non-residuum, eo per singula residua multiplicando obtinentur reliqua neu-residua numeru
+p, praeterea vern reliqui numeri impares sive formae 8ιι-ι-3, sive 8n÷ 5, sive 8n÷7 suppedi-
+tant adbuc dp residua.
+
+531. Divisor erge 8(2ρ-ι- l) totidem praebet residua, quot divisor 2p—r- 1, quae si sint
+1, α, β, y, δ, etc. ex singulis residua divisoris 8(2ρ-ι-1) eiicientur, addendo ejusmodi multiplum
+ipsius 2ρ-ι- 1, ut aggregatum liat iermae 8n-r- l, veluti ex boc exemplo videre licet:
+
+Pro divisore 13, residua ι 1, 3, t, 3, tt, 12 ’
+Α adde '0,e.rs, 13, 0, 313, ι3
+pre divisore itt, residua 1, 81, 17, 3, tt, 25.
+532. Si pro divisore 8(2ρ-ι- 1) luerit residuum A, erit All-l divisibile per 8(2p·r- i);
+ac si boc evenerit, erit A vicissim residuum quadratorum. Scilicet si ΑΡ -1 sit divisibile per
+8(2p÷ 1), semper assignari potest quadratum ece, ut sit ωσι-Α divisibile per 8(2ρ-ι- 1). ’
+
+ 
+

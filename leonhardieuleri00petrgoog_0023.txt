@@ -1,0 +1,57 @@
+Ι 11ιιι1ιιιιιε de numeroram doctrtho Cap. l. 5
+
+27. ¹hiultipla ergo nohis erunt ejusmodi numeri, qui cujuspiam numeri, praeter unitatem, sunt
+multiple (excluso simplo), constabunt ergo duobus lectoribus, quorum alter alterius respectu tanquam
+index spectari potest.
+
+28. Factum ergo oh, cujus factores sunt o et h, est multiplum tam ipsius o quam ipsius 1).
+Quatenus est multiplum ipsius ιι, index est h, quatenus autem est multiplum ipsius 1), index est a.
+
+23. llultipla hujus lacti ob simul erunt multiple tam ipsiuso, quarn ipsiush. Sit noh tale
+
+multiplum, cujus index sit ιι, et quia etiam est multiplum ipsiusa, erit multiplum uniuscujusque
+horum numerorumn, aeth.
+
+30. Hinc patet etiam ιι 1ιιιο ex trihus factoribus constante, tres lectores inter se esse permu-
+tabiles, atque tale lactum ahc non solum esse multiplum singulorum o, h, c, sed etiam factorum ex
+binis oh, oo, hc. Ι ¹ .
+
+31. 81 in serie numerorum. 1, 2, 3, t, 5, 6, 7, etc. omnia multiple deleantur, reliqui numeri
+uon erunt, multiple ullius numeri (quandoquidem simpla excludimus), hique numeri vocantur suplices,
+vel primi. Ι , ¹ Ι ¹ Ι
+
+’ 32. {teletis scilicet multiplis binarii t, 6, 8, 111, 12, ιιι. restat haec series l„ 2, 3, 5, 7, a, ·
+11, 13, 15, 17, 13, 21, ιιι.;1ιίιιι porro extinguantur multiple terualli 6, 3, 12, 15, 18, 21, eto.
+qnae quidem adhuc adsunt, et restat 1, 2, 3, 5, 7, 11, 13, Ι17, 19, 23, etc.; ita relinquentur
+undem numeri primi 1, ι, 3, s, ι, ιι, 13, ιι, ιι), ιι, ιι, ιι, ιι, ιι, ιι, ιι, ss, ss, ιιι. ’ ’
+
+33. 81 ergop sit numerus primm, is neque inter multipla binarii neque inter multiple cujus-
+* - quam alius numeri occurrit, neque ergo hujusmodi sacto oh ullo modo exhiheri potest, nisi sit vel
+
+o= 1, vell: 1 q,uos autem casus exclusimus (26).
+
+tt. Omnes numeri, qui non sunt primi, vocantur compositi,- . unde patet omnes· numeros com-
+positos esse multiple aliorum numerorum minorum, qui cum 'iterum sint¹ primi, 'vel multipla- aliorum
+denuo minorum, multiple autem cujusvis producti sint simul multiple singulorum ejus laetorum,
+sequitur omnes numeros compositos tandem reduci ad multiple numerorum primorum.
+
+35. Omnis erg'o numerus est vel primus, vel multiplum cujuspiam numeri primi, quo posteriori
+casu cum numerus sit compositus, omnis numerus compositus exhiheri potest producto, cujus singuli ’
+lectores sint numeri primi. ’
+
+36. luter numeros compositos primum occurrunt ii, 'qui constant duobus tantum lectoribus
+
+primis. Veluti si p et q denotent duos numeros primos quoscunque, productum pq in genere exhi-
+hehit ejusmodi numeros compositos primae speciei, qui duobus tantum constant lectoribus primis. Ι
+
+37.“ Talis ergo numerus compositus pq erit tam multiplum numeri q, indice existente p, quam
+multiplum ipsius p, indice existente q, neque vero ullius alius numeri erit multiplum. Si enim esset ’
+multiplum alius cujuspiam numeri o, indice existente h, hi numeri oet h ejus essent lectores,
+contre hypothesin.
+
+38. llujusmodi autem productum po, cujus quidem laotorp est primus, alter xero o com-
+positus, factores hahens α, at, y, etc, nonsolum erit multiplum numerorump et o, sed etiam inter
+multiple numerorum α, β, y, etc: occurret.
+
+ 
+

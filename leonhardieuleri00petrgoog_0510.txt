@@ -1,0 +1,54 @@
+L. EULERI OPERA Postfltuts.
+U.
+
+(11· ¹'imi
+
+Methodus ineiiir hujumodi questiones solvendi: anonntor numeri o· et p tries, nt formula ιη’-Ην*
+divisibilis fiet per dutum nnmerum N. 1 ’
+
+Primum observandum, hoo {ieri non posse, nisi irretit voi N :moe-ott, vel N :on-mhi. Pro enm
+¹ priore quaeratur qoodmtum st :tuss oh, quod ni heri nequent, quaestio est impossibilis. Sin ιιιιοιιι k iuven·
+tum suerit, erit “ ¹
+
+ἰιέεαΝὲ-αρ, vel etiem nansskq ·· · ·
+goa-pffNss-kp 'gzflNssbg
+
+uhi α, β, p. q pro lubitu sumuntur. - ¹
+
+' Pro attero eoru quaeretur-quadratum humum, tum vero en't utente e=oNssap et p=fiNssh1u
+vei etiem e = αΝ ιι· tp, p: pu -ὲ hp. Sit ur :2 et o = 1, ιιι sormnln 2x⁴ -ι- p⁴ divisibilis [int per N=2no÷hh2
+Sumatur o=h et h: 1, erit N = ³3. Quosmrur ergo kkzwss 1, qnod fit si t=0‚ eritque is=25 erit ergo
+s=33osshp et p=3tssss2p
+
+Δ. ιιι. T. 11. p. 148. 119
+
+eo
+⁴ (N. fuso.)
+
+Ι Βιιιιιιτιο. Proposito nnnrero quoeunque §ntegro no, denotet no multitudinem numerorum ipso norinorum
+ed eumque primorum its erit rrt=t, rt2= 1, π3 =2‚ nh=2, π5τ-1, no=2 eto. Unde potet, si afuerit
+numerus primns, iore uo=o - 1. ’ Quo megin eutem numerus o inerit compositus, eo minor erit πα. erem·
+admodum' eutem pro quovis numero o'inveniri oportuniores, regelone guidem olim dedi, ejus vero demon-
+strationem multo simpliciorem hiesum traditurus.
+
+Lnnn. Proposito quoeunque numero o, si formetur progressio arithmetico totidem terminorum, cujus
+differentis nd etun sit primn,- ejusque singuli termini per o diuiduntur, omnin residuo inter se erunt diverse,
+in iisque ergo occurrent omnes numeri ipson minores, soil. 1), 1, 2, 3, h... o— 1.
+
+’ ¹ltunrousnnsrro. Ιὃίιιρ primus terminus et q differentia pd o prime, eu‘t progressio arithmetiru
+
+¹· ἶ ,ιι4ιιψὴνηιψι-ηι
+
+Quot si jum singuli termini per o dividentur, hehe petet omnio residue inde ortu inaequalis esre dehne. Si
+enirn hi termini p÷pq et pue-up, uhi μ et ν minores sunt quone, o, iden prneherem residuum, eorum diffe-
+· nentis, quoe est (μ- u)p, toret per ‹odinisihilis¹ Atquin p est numerus primns sd o, deberet μ-ν, honest
+numerus ipso o minor, per eum esse divisibilis. Curu igitur omnin retinuerint diverse‚' eorumque numus
+ει, in iis necessarioreperientur'omues numeri 0, 1, 2, 3 eto. . .. u- 1; semper igitur unus horum nnme- ·
+ror-nm per o enit divisihitiot ¹· · ἶ “
+
+· Pnnmmo ro nnnousrnr'rom. Sint 1, o, β, y omnes numeri ipso emineres nd eumque primi,
+quorunr ergo'uuuerus per hypothesin zuo, iuter quos ergo primus erit 1, et ultimus o- 1. Hine eonstitu-
+untur sequentes series:
+
+ 
+

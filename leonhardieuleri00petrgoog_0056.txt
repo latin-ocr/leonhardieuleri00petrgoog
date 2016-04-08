@@ -1,0 +1,51 @@
+L. EULERI OPERA POSTHUMA. 1111118818.
+
+8118. Non mediocriter haec illustrabuntur, 81 residua et uon-residue 81 divisione quadratum
+
+7 11
+1,1,2 1, t, o, 5, 3
+3, 5, 6 2, 6, 7, 8, to
+17
+1, t, 9, 16, 8, 2, 15, 13,
+3, 5, 6, 7, 10, 11, 12, rt
+23
+1,1,1,18, 811, 11, 1, 5 1, t, 818, 811, 8, 1811, 8, s
+2, 3, 8, ro, 12, 13, 11, 15, 18 5,7,11),12,11,15,17,13,211,21,22
+23 “
+1, t, 3, 16, 25, 7, 20, 6, 23, 13, 5, 28, 21, 22
+non-residua 2, 3, 8, 10, 11, 12, 11, 15, 17, 18, 13, 21, 26, 27111).
+
+308. conplementum residui vocemus numerum, qui cnm residuo iaciat divisorem ita 81 divisore
+811818818 =d, sit quodpiam residuum '=r, ejus complementum erit d-r.
+
+ato. Si 'cujuspiam residui complementum occurrat iu ordine residuorum, etiem omnium resi·
+duorum complemento ibidem occurrent. Nam si in ordine residuorum 1, a, β, y, δ, etc. 88881181
+(1-8, divisore existente d, hoc residuum d-o etiam per -u=.··-· 1.α repraesentari potest,
+quare cnm tam 8 quam productum -· 1.α 811 residuum, etiam -l erit residuum, ideoque 8111111
+.... β, -γ, -δ, etc. quibus aequivalent complementa reliquorum residuorum.
+
+311. 18 88118 ergo residuorum vel nullius, vel 8881881 complementa occurrent 111 superioribus ἵ
+
+exemplis patet, 81 divisor sit vel 3, 181 7, 181 11, 181 ts, 181 23, 8811188 residui complementum 111
+residuis reperiri, sed ee esse noo-residua. sinautem 8111881811 5, 181 13, 18117,18128, 18 ordine
+residuorum quoque singulorum complementa inveniri.
+
+812. Si divisor 811 211-1- 1 primus, atque in residuis quoque singulorum complementa occurrant,
+quoniam bina ita inter se cohaerent, ut alterum alterius sit complementum, neque idem 881 ipsius
+complementum esse potest, 811211 -1-1 semissem nou admittentem, 8888188Ι residuorum necessario
+erit par.
+
+313. Cum igitur numerus residuorum sit =p, 8181 p sit numerus par, fieri nequit, ut residuorum
+complementa sint etiam residua. Quare sip 811 numerus impar, certum est nullius residui comple·
+,mutum in ordine residuorum contineri, ideoque omnium residuorum complementa ordinem non-
+residnorum constituent.
+
+311. Sit igitur p numerus impar =2q-l, ut divisor primus sit tq- 1, atque omnium
+residuorum complementa erunt non-residua. lta si quodpiam residuum sit a, ejus complementum
+
+(Ἴ Scriptndmorp. Dirioor: 59. Residua: 1, -2, 3, 1, 5, -6, 7, -8, 9, -10, -11,12, -13, -11,
+15, 16, 17, -18, lli, 20, 21, 22, -23, -2t, 25, 26, 27, 28, 29. Ergo 81 ter-t est primus, vel
+88-1-8111, 181 telis iorme 811-81111 per 88111881 divisibilis. ’
+
+ 
+

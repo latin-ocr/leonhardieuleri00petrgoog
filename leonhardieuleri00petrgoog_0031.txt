@@ -1,0 +1,120 @@
+Tractatue de numerorum doetm'na Cap. 3.
+
+93. Deinde 1111 sit cubus numeri primi, seu
+
+N=p³, erit [ρδ31τι-ρ-Ι-ΡΡ-ἳ-Ρδ-’ῑ11-ΡΡ)(1433)),
+
+ideoque numerus compositus, ae nisi sit p=2, ad minimum erit summa divisorum divisibilis per 1, ’
+
+quie uterque factor 1-1- p ει 1÷pp est par. Erit ergo s p⁸= (1 ÷ pp) s p,
+
+91. Si numerus Ν sit potestas quarte numeri primi, seu N περ’, erit summe divisorum
+s ρ* = 1 -e- p -ι- pp ÷ p⁸÷p⁴, ideoque semper-imper, fierique adeo poterit, ut ea sit numerus primus,
+veluti [Ψ = 31.
+
+95. Si sit N = p⁵, quia est sp⁵= 1 ÷p ÷pp÷p³÷p⁴÷p³, erit summe divisorum
+
+s1³⁸=<¹÷1³÷ee> (¹÷1³³)=(¹÷e) (¹÷P÷PP) (¹-P÷101³)‚
+. ideoque numerus compositus, qui ex summis inferiorum potestatum ita componitur, ut sit
+se⁵=(¹-e÷1³e)se·se²·
+
+96. Proposito autem producto MN, eujus factores M et Nnullum¹ habeant faetorem primum
+communem, erit s MN = s M. s N , quae ergo summa divisorum eo magis erit composita, que plures
+numeri primi diepares ingrediantur. ¹ ’
+
+97. Proposito numero quoeunque N, eujus summa divisorum sit [Ν ‚ si is per numerum primum
+multiplicet-ur, summa divisorum producti Np semper maj0r est quam p s N. Nam s Np primum ’
+'complectitur omnes divisores numeri N perp multiplicatos, quorum summa est p s N, ae praeterea
+etiam eos divisores numeri N, qui perp non sunt affecti.
+
+98. Hoc etiam ita bipartito ostenditur. Primo si numerus primus p non contineatur inN,
+erit utique s Np= sp. s N: (1-ι-ρ) [ N=p s N÷ s N, quo casu sine dubio εει s NP> p s N.
+
+99. Ae si p jam contineatur in Ν, ιιι sit N=Mp'‘, erit s N: s M. s ρ”; sed s NP: s M sp'¹*¹.
+Ex superioribus vero constat esse s p''*¹=1÷p s p'¹, unde colligitur s Np= s M÷p s pn s M, ite ut
+εἰι [ Np=p s Ν-ι- [ Μ, ideoque s Νρ> p s Ν. ¹
+
+100. Numerorum naturali ordine progredientium summae dlvisorum ite se habebunt:
+
+[131
+[233
+[331
+
+[137
+[536
+[6312
+[738
+[8315
+[9313
+[10318Ι
+[11312
+[12328
+
+s13=¹e
+s1e=ee
+
+' s15=ee
+
+[16331
+[17318
+[18339
+[19320
+[20312
+[21332
+[22336
+[23321
+
+s2e=ee '
+
+[25331
+[26312
+[27310
+[28356
+[29330
+[30372
+[31332
+
+’ see=e³
+
+[33318
+[31351
+[35318
+[36391
+
+[373 38
+[38360
+[393 56
+[103 90
+
+s1÷1=ee '
+
+[123 96
+[133 11
+[11381
+[153 78
+[163 72
+[173 18
+seer-312¹*
+
+[193 57
+
+[50393
+[51372
+[523 98
+[53351
+[513120
+[553 72
+[563120
+[57380
+
+sse: eo
+
+[593 60
+[603168. .
+
+’ 101. Inter has divisorum summas non omnes occurrunt numeri, sed usque ad (30 exeluduntur
+
+sequentes:
+
+ 
+

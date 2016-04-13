@@ -1,0 +1,56 @@
+‘ Ser les loqore'tlemes des combros nepotifs et integritati-es Ι ‘271¹ss ·
+
+S 6. blais on m’objectere peut-etre que ιἰιι pourtant le plus seir moyen que de juger dela Μ
+figure d'uue ligne courbe et du nombre de ses brunebes par son equation, et que c'est par ce prin·
+cipe que les Geometres determinent les formes de toutes les courbes algebriques. Α quoi Je repende
+qne celte methode n'a lieu que lorsque l'tquation pour la courbe est algtbrique, ou du moins conque
+eu termes finis, etque jamnis une equatiou differentielle n'est propre boe dessein. Car on uait
+qu'une tquatiou differentielle ιιι toujours indetermtnee, icause ¹d’uue quantiti constante arbitraire ,
+qu'elle renlerme et qu'on doit introduire dans l'inttgration: deserte qu'pne telle equation embrasse
+toujours une infinite¹ de courbes b le [lois. On u'a qu'i regarder l’equation.dille'rentielle pour la
+parabole ayuy=adn et l'on verra qu'elle contient nou seulement cette equation finie y²=uae, mais
+aussi celle-ci y²=oaessob, quelque valeur qu'on donne ἐι la quantite' b. Par consequent, en oe
+considerant que l'tquation difftrentielle 2de = uda, ou devrait conclure qu'b la meme abscisse :oe
+rtpond non seulement l’ordouuee y=tsoae, mais encore y=ts(uoe‡o²), et en generaty=1qaaessabt
+
+3 Gette rtllexion est suffisante pour faire voir, qu'on ne peut gnere juger de la forme d'une ligne
+
+l cumbe, en ne regard‘ant que sor'r equetiou difftrentielle.
+
+§ 7. Or Μ. ΒιιιιοιιΙΙί aussi bien, que plusieurs matbematiciens qui soutionnent encore le meme
+sentiment, ticbe de prouver encore par d'autres argumentoque l'asymptote de la logarithmique est
+en meme temps son diametre. Ces arguments sont londes ou sur la construction de cette courbe,
+ἰιι eur l'analogie. On se sert de l'analogie‚ en considerant, au lieu de l'equation pour la logarith-
+
+mique clo εἴ, ιιΙΙι-ιί qui eet plus grande de :3-{1 et dont l'integrale est ιι --· C- (n- ulfi-¹ ι
+
+. ou y remarque que toutes les⁴ lois que ιι ιιι un nombre impair,· la courbe a sans coutredit un dia· ·
+metre, ou deux branchos egeles et semblables. Cela remarque, dit-on, qu'on suppose n: l, et
+puisque l estun nombre impair, la logarithmique doit avoir la meme proprie'te. C’est, ir mou avis,
+le plus [ιιι argument qu'on ait apperte jusqu'ici pour'prouver que la logarithmique a un diametre3
+or, je lerai voir neanmoins que cette conclusion qu'on en veut tirer, n'est pas assez seire.
+
+§·8'. Quand il s'agit, daus l'analyse, des ces d'integrabilite‚ ou dans la geometris, de certaiues
+proprittes des lignes courbes, on nonve rerement des propositione assez generales, et il ylant
+presque toujonrs excepter un ou plusieurs cas, nuxquels on ,ne peut pas latre l'application. On peut
+bien dire que cette lormule ude est generalement integrable, quelque nombre qu’on mette pour ιι,
+
+pourru qu on en excepte le cas ιι.---1.Ει il en est de meme de plusieurs autres lormules gene'-
+rales dont on ne peut presque jamnis alllrmer, qu elles soient integrables daus tous les cas sans ex-
+
+ception. Αἰιιιί, quand on dirait que l'tquation duzff- ιιριιιιιιιι toujours une courbe algibrique, quel-
+
+que nombre rutionnel qu'on mette poure, cette fflplroposition ne souffrirait qu’une seule exception,
+
+celle du eas o= l. Donc, puisque ce cas est si particuliirement distingue de tous les autres, qui
+
+sera garant qu’il ne faut pas aussi laire une exception b la regie mentionnte al'egard el'un diametro
+qu'on voudrait attribuer i la courbe comprise sous l'tquation ιιιτ-αέἳ Car, dans tous les autres cas
+cir ιι est egel i nn nombre impair, nous reconnaissons arec evidence le necessitt d'uu diametro, puis· ¹
+
+que dens ιιι ιιι, l’tquation est integrable: mais daus le cas πει ιιιιι evidence cesse entitrement, i
+cause de l’impossibilitt de l'iritegration. l'ar constqueut, ou est au moine obligt d'arouer que la cou-
+crunon· qu'ou reut tirer de cet argument n'eet pes assez seire. ¹
+
+ 
+

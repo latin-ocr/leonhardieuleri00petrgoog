@@ -1,0 +1,55 @@
+Trocmos de 1111111111 11111111 Cap. 11.
+
+’ divisor 11 , «11
+residue 1, 3, 3, 5, ’ 1· 1, 3, 25, 5, 37
+3, 27, 31, 15, 23
+non-residue 2, 6, 7, .8, 10 {⁷⁹ 13, 13, 35, 33
+13, 29, 17, 21, 11
+
+divisor 13 . 52
+residue 1, 3, 1, 3, 10, 12 ’ 1, 3, 25, 13, 23, 17
+
+3, 27, 23, 13, 35, 51
+111-11111111 2, 5, 6, 7, 8, 11 1 5, 15, 21, 37, 11, 33
+
+7, 11, 13, 31, 17, 15. -
+
+517. Sint pro divisore 21 -1-1 residua 1, α, β, y, d, etc. et pro divisore 1(21-1- 1) residue
+1, A, D, C, D, etc. multitudine aequalio3 ao primo 11111 11 his residuis illa 11111111, scilicet ex
+serie 1, A, D, 0, D, etc, quae suut minora quam 21-1-1, ipse in serie 1, 1, β, y, δ, etc.
+
+continentur} qnae voro suut majore, minui debent numero 2p-r-1, vel ejus duplo, vel ejus triplo.
+
+518. Deinde observo 11111 residua 1, A, B, C, D, etc. nullum numerum bnjus lormae 11-1
+contineri. Cum enim quadratum oo, demto numero 11- 1, nequeat csse divisibile 1111, lieri non
+potest, 11 111 11-(11-1) multiplum ipsius 1121-’1-1), unde numeri 3, 7, 11, 15, 13, 23
+semper 1111 inter non-residua.
+
+513. 81 lusorie 1, o, β, γ, δ, 111. occurret numerus impar formae 11-1-1, idem qnoque in
+serie 1, A, B, C, D, etc. occurret3 nem si 11-(11-1-1) 111 divisibile 11121-1-1,111111 divi-
+sibile erit (21-1- 1 ;Ι;1)’- (11-1-1); 11 quia numerorum a et 21-1-1ὲ1 1111111111111111,
+alter imper, sumatur 1 imper, 11 11-(11-1- 1) per 1 1111 divisibile, unde etism per 1121-1-1),
+ita ut pro boc divisore lq÷l loturum sit residuum. ’
+
+520. At 11 numerus impar 11-1 111 residuum divisoris 21-1- 1, 111 erit residuum divisoris
+1(21-1-1), 111 jam vidimus3 tum vero 2(21-1-1)-1-11-1, quia redit ed formem tr-r- 1, certe
+inter residua divisoris 112111) continebitur.
+
+521. 81 numerus par 21 111 residuum divisoris 21-1- 1, tum vel
+21-1-21-1-1, 111 21-1-3(21-1-1)
+
+1111 residuum divisoris 1(21-1-1), 11111 velbic, vel illc numerus luerit iormao 11-1-1, alter enim
+lormae 11-1 semper excluditur. ⁸
+
+522. Scilicet si sit ρε-211, 11 111-11 numerus 1111111, 11 11 111 residuum divisoris tm—r—l,
+tum lq÷lm÷l erit residuum divisoris “marm 111111-1-211111111111111111111111-1-1,
+tum 11-12-1-31111-1-1) erit residuum divisoris t(lm -1-1).
+
+523. 811 p=2m-l et 111-1 numerus primus: 81 11111 residuum divisoris tm- 1,
+tum 11-1-3(111-1) 1111 residuum divisoris 1(111-1). At si 111-2 111 residuum divisoris
+
+111-1, tum 11-1-2-1-111 - 1 = 11-1-111-1- 1 erit residuum divisoris 1 (tm - l)-
+s
+
+ 
+

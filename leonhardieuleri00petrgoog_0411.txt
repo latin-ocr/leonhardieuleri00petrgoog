@@ -1,0 +1,57 @@
+lusteiutebaum Calculi differentialis Secteb ΙΙΙ. Cop. l. 393
+
+ar. Si regula sursum vergens Eo majorem semirecto anguium cum linea horizontali EF con-
+' stituit, termini, qui ah ea trajiciuntur, eruut hujusmodi 1. Aa²÷cy=m ll. Ae³÷cy=u
+lli. Aa³÷·cy·²=o, lV. Aae⁴÷cy=o V. Ac⁴÷ Bm²y÷0y²==0, Vl. Aae⁴÷cy⁸==0 etc,
+in quibus numerus dimensionum ab m etr ortorum decrescit secundum progressionem arithmeticam,
+siquidem plures duobus luerint termini.. Hie ¹casibus quidem semper punctum curvae in a'xe ob
+m=0 et y=o indicetur, sed tangens tantum exhibetur, cum aequatio nou inerit imaginaria,
+manifestumque est tangentem, si quae detur, in ipsum axem incidere. Quodsi aequatio ut V pluris
+
+duobus constet terminis, infectores erit resolvenda, qui singuli si sint reales, ramos curvae axem , ¹
+
+in initio'tangentes declarabunt; sinautem sint imaginarii, bini praebebunt puncta conjugata, qnae
+autem alluserunt naturae atque ea, quae ex s 'praecedente sunt orta, siquidem discrimen inter
+puncta conjugata statuere licet.
+
+32. Si regula sursum vergens Eccum horizontali EF iaciat angulum semirecto minorem, i'n
+aequationibus inde ortis dimensiones ipsarum cc etr aequabiliter crescent, eruntque hujusmodi:
+
+' 1.Aae÷cy²=o, ll. Aae÷cy³=o, ΙΙΙ. Ac²÷ cy⁸=o, lv.Aae÷cy⁴=o,
+V. Aae²÷13aey²÷ cy⁴=o, Vl. Aae⁸÷cy⁴=m etc,
+qnae omnes puncta curvae in axe designant, ramorumque eo desinentium tangentes, siquidem suerint
+reales, ad axem erunt perpendiculares; sin autem aequatio pluribus constans terminis uti V factores
+babeat imaginarios, puncta-tantum conjugata sine tangentibus indicabuntur. Apparet ergo singulas
+regulae positiones sursum vergentes Eo, Ec, Ec cuncta curvae ¹puncta in axis principio sita praebere,
+atque etiam inde tangentes singulorum curvae ramorum ihi concurrentium cognosci; sic regulae
+
+positiones Eo praebent eos ramos, qui ab ipso axe tanguntur, positio Ec eos, quorum tangentes iu
+uem sunt obliquae, ac denique positiones Ee eos ramos, qui axi perpendiculariter insistunt.
+
+33. Quemadmodum si regulae positio Ac taionnacus, ea curvae puncta abscissae. c=0
+respondentia prodeunt, quae ab axe intervallo linito distant ita si regulae directio deorsum vergat
+ι veluti hF, oF, fr, puncta curvae¹ ab axo in infinitum distantia, vel pro quibua iit yzoo existente
+
+(οι-0, exhibentur, atque natura ramorum hic in inlinitum excurrentium, quatenus ad abscissas
+'minimas cc reseruntur, exprimetur hujusmodi aequationibus hyperbolicis: A-r— llos: 0, A-r- coe¹y=0‚
+Α -ι-Βωγέ-0,’ ex quihus intelligitur'ipsam' applicatam in axis principio ductam iore borum curvae
+ramorum asymtotas. Fieri quoqne potest,¹ ut hujusmodi aequatio veluti o‘—r-ooeyy'=0 imaginaria
+
+complectatur, cum inde sit γεὲν-1, sicque nulla tangens indicetur. interim tamen cum
+
+θῦν-ί sit == 0, erit qnoque {522} ideoque inlinitum, ita ut nibilominus bis casibus applicata
+
+yposito ac=0 liat i'niinita, etiamsi punctum curvae ea notatum tangente destituatur; offirmare
+itaquo liceat in intervallo infinito ab axe extare quoque puncta conjugata.
+
+db. Hoc ¹‚modo ergo ope parallelogrammi tangentes ramorum curvae, qui abscissae· m'=0
+, repentens„ inveniuntur, iis tantum exceptis casibus, qveihus huic abscissae evanescenti applicatae
+
+finitae magnitudinis respondente Verum etiam bis casibus ope differentiationis, qua valor fractionis
+
+2: eruitur, positio tangentis deliniri¹ poterit, nisi curvae ibi existat punctum duplex vel multiplex,
+
+uxerem oppam-rr. ι. 1 “ Ι50
+
+ 
+

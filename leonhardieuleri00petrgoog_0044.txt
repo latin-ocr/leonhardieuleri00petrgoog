@@ -1,0 +1,56 @@
+26 L. EULERI OPERA Postuerta. 1111111111.
+
+212. Quodsi ergo b etd sint numeri inter se primi, et μ denotet multitudinem omnium
+numerorum ad 11 primorum ipsoque minorum, tum vero b'· 111111 minima potestas 1111111111 mu,
+quae per 1111111111 unitatem relinqunt, tum orit 111 ηε-μ, 111 u aequabitur parti cuipiam aliquotae
+ipsius μ, ita ut sit 12:32 existente m divisore quopiam ipsius μ.
+
+’ 213. Cum autem post potestatem b'' etiam omnes istae b²”, b⁸'¹, b⁴'¹, ete. unitatem pro residuo
+agnoscant, semper potestas b'”'¹=b¹¹ per d divisa unitatem relinquet. llinc dum bet d inerint
+numeri inter se primi, haec formula 111-1 semper per numerum d erit divisibilis.
+
+211. Si praeterea etiam e et d luerint numeri inter se primi, quoniam 111-1 divisionem per
+d admittit, barum formularum differentia l›'‘—cll semper per nnmerum d erit divisibilis, dummodo
+uterque numerus b et c ad d luerit primus.
+
+215. Si pro d sumamus numerum primum p, erit μ-τρ- l, atque baec lormula bl'·¹-l
+semper erit perp divisibilis, nisi ipse numerus b luerit multiplum ipsius p. Fieri autem potest, ut
+forma simplicior b'⁸- 1 etiam divisionem perp admittat, ubi autem necessario requiritur, ut exponens
+usit pars aliquota ipsius p—l.
+
+216. 81 divisor sit d: pq, existentibusp et q numeris primis inaequalibus, neque b alter·
+utrum borum numerorum complectatur, tum ob μ-- (ρ-1) (q— l), baec 111111 bll'·¹l (1·*1 -l -
+per derit divisibilis. ·
+
+217. Ac si existentibus p, q, r, enumeris primis inaequalibus, 11111111ε11911111, acb
+numerus quicunque ad d primus, tum posito
+
+m=r²·¹u-1>r·¹o-1>r’·¹(r-¹>s³··¹o-u‚
+
+baec forma ὸ”’-1 semper per derit divisibilis, atque interdum lieri potest, ut formula simplicior
+b'' - 1, existente n parte quapiam aliquota ipsius m, divisibilis eradat.
+218. Sed⁸ retineamus divisorem generalem d, sitque μ multitudo numerorum ipso minorum
+
+ι ad eumque primorum, prob autem sumatur numerus quicunque add primus, cujum minima potestas
+
+perd divisa unitatem relinquens sit bn, atque vidimus necessario fore rel u= μ, rel ηεξ-μ, 111
+
+111-ἐμ, vel 11 affe, vel u: ἒ-μ, siquidem μ tales partes aliquotas admittat; quos casus
+
+diligentius evolvi conveniet.
+
+219. Statim quidem suspicari licet, boc discrimen ab indole numeri b pendere, ita ut pro dato
+divisore d, certi numeri pro b sumti praebeant ηεμ, 1111 1.--ἒ-μ, alii uz} μ, 1111 1.-εὲ μ,
+seu adhuc minori parti aliquotae ipsius μ.
+
+220. Quaecunque autem 11 111 pars aliquota ipsius μ, si binae potestates b'' et c'¹ unitatem
+relinquant, etiam composita (be)'¹ unitatem relinquet. Deinde etiam manifestum est potestatem
+(osstdy' per 11 divisam, esse relicturam unitatem. ’
+
+221. Cum potestas ὀμ semper unitatem relinquat, quaeramus numeros pro 1111111111, ut
+
+etiam 111 unitatem relinquat, quo casu ante omnia neeesse est 111μ 111 numerus par, quod quidem
+semper evenit nisi 111 d: 2.
+
+ 
+

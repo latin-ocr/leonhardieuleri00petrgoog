@@ -1,0 +1,75 @@
+Analyse d’un problema du οῇἱσαὶ des mbassilt'ds. ·
+
+En resumant tous ces cas, nous obtenons le tableau suivant:
+
+· Nombre des billets non-tirks probabilia
+(10.9)²
+0 Q
+⁸(10.9)²
+Q
+(10.9)² Ι
+s Q
+
+(1o.9)²
+
+Lm,
+W
+
+Si amu de 10 billess‚„i¹ y eu a n, dont on tire deux, ὲ chaque mpsim, on aura:
+
+5
+6
+7
+8
+
+Is En tirant deux soi& '
+
+pour le nombre des billets non-sonants la probabili& -
+m
+
+nun-³ 2·(st—-2E
+not-1)
+
+, w-fflm-Q
+not-1)
+
+ιι-2
+
+τιν’-ἰ
+
+Εοηεὶἀότοιιε maintenant les numbra'teurs de ces differem cas, et eti posam, pour plus de simplicite,
+n-2=m, ils seront 2, hm et m(m -1); leur somme nous donne la valeur m²÷3m÷2e⁹t
+par consbquent, l'ssquation A ÷Bm÷m (m—1)=m²÷3m÷2, qui doit subsistet pour tontes les
+valeurs de m, nous fouruit les valeurs des coefficients A et B.
+
+ll. En τίτθαι trois sois, on aura: Δ
+
+pour le nombre *des billeis non-sorum *la probabilitk
+
+ιμ’-2» ’, ¹ {¹³33}
+
+8¹·(ss- UNA , 1
+n²(n-l)²
+π’(ιι-Ι)ι
+ΙΙ-5 · . 6·(fl-2)n(;2(;-E)¹(;²-·⁴)02
+
+ωωῆω-ωω-ηψ-ω,
+
+,θοι-,1)2
+
+η-3
+
+ιι-Ιι
+
+ιι-6 .
+
+En posant de nouveau h— 2 dm, [es numkrateurs de oes differents eds 'serunt
+
+b, 32η, mon-1), .l2m(m-l)(m-2) et m(m··1)(m-··2)(m-·³) ’
+. dont ln somme nous donna, la ‚valent (m2-1-3m42y‘e25 'par comquent, skquzfion polu determinet
+les cossffieients h, 32, 38 ει 12 sera
+
+A÷flm.÷cm(m-s)÷nm(m-1)(nu-a)÷m(m-·1)<m-2)(m-23)=(n1·4am÷2)2.
+
+ 
+

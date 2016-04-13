@@ -1,0 +1,56 @@
+Lot relatos ὰ lo soracte des daor'seurs des rumores. 81
+
+Je sorrlraiterais qu'on trourit un chemin plus court et plus naturelpour y parvenir, et peut-etre quc
+la considdration de la route quo j'ai snivie y pourra conduire.
+
+§ 9. 11 y a long-temps que je considerai, i l'occasion du probltme dc la partition dos nombres‚
+cette expression: A
+o-oo— oo-oeoo-aeoo-aeoo-aeoo-ae⁷)(1-ae³>·-·-·.
+la supposant continuis ia l'infini. J’ai multiplic actuellement un grand nombre dc ces lacteurs
+enscmble, pour voir la larme de la serie qui cn risulte, et j'ai trouvt cette progression:
+
+1- c ·- ae²÷ae⁸÷ ae⁷-cc¹²-ae¹⁵-r- ac²²=r=ae²⁶- ac⁸⁸= (ιω-ιη. ..
+
+od les exposants de c sont les memes nombres qui entrent dans la formule precedentc; et aussi los
+
+' signes -ι- et - alternent deux i deux. On n'a qu'a entreprendre cette multiplicatiora et a la conti-
+
+nuer aussi loin qu’on jugera ὲ propos, pour so conraincrc de la virito de cette serie. aussi n'ai-jc
+pour toute preure ¹qu’une longua induction, qus jai du moins poussee aussi loin, que je ne puis
+en aucune muniere denter de la loi d'apres laquelle ces termes et leurs exposants sont formis. J'si
+long-temps cherchd cn caindo ddmontrer d'une maniire rigourcuse, que cette serie doit dire 'c'galcsi
+l'expression proposes (l - c) (l -oe²) (1 -ac⁸). .. et j’ai adresse la mtme demands ia quelques-uns
+de mes amis dont je connais la force dans ccs sortes de questions; mais tous sont tonabtsarec moi
+d'accord sur la verite de cette conversion, sans en avoir pu deterret aucune source de domon-
+stration. Ce sera donc una verite conane, mais pas encore demontrde, que¹ si l'on pose:
+
+’ s=o-oo-aeoo-aeoo-aeoo-aeoo-aeo···-
+
+la mtme quantitt s ponrra aussi ttre exprimde en sorte:
+
+s= 1 -ac —sc¹-r- oe³÷oe⁷- oe¹²- sc¹⁸÷uae²¹÷ (θ’- ao⁸⁵- c⁴⁰. . ..
+
+Ι Car chacun est en etat de se convaincre dc cette verite por la resolution actoelle a tel point quil
+souhaitera, till parsit impossible que la loi qu’on a decouverte dans 20 ternres par exemplo, ne
+soit pas tgalemcnt vraic pour tous les suivants.
+
+§ 10. Ayant adone dtcouvcrt quc cos deux expressions inlinies sont egoles, quoique l'dgalite
+ne puisse etro domnonia, tontes les conclusions qu'on pourra diduire do cette dgalitd scront de
+mima nature, c'est-i-dire vraies sans ttre demontrees. Οιι, si l'une quelconque de ces conclusions pouvait
+dtre de'montrde, on en pourrait reciproqucment tirer une ddmonstration dc l'egalite mentionnee3 et
+c'est dans cette une que j'ai munic de plusieurs munieras ces deux expressions, par οὺ j'al ate condult'
+sntr'antrcs ia la decooperta quo je viens d'expliquer, et' dont la virito doit ttre aussi certaine que
+celle de l'e'galite de ces deux expressions. vona de quelle muniere j’ai opert. 'Cos deux expressions
+etam igales:
+
+¹- s=<¹-oo-ae²>o-e)o-'ae·>(¹-ae⁸)<1—ae⁶><1-aeo--··
+
+.ll. s: l - ω- στ’-ι- c³÷ nc⁷- ³:¹²- ac¹⁶÷ ae'²÷c²⁶- sc⁸⁵- c⁴⁰ ψ . . ..
+pour dtlivrer la premitrc des facteurs, j'en prends les logorithmes, (1ὀὺ jo tire
+ts=l(t-oe)÷l(t-ae²)÷t(l-ae⁸)÷t(1-ae⁴)÷t(r-s⁵)÷....
+llaintenaot pour eliminet les lugaritlrnres‚ j’en prendo les diffdrentielles‚ ce -qui donnua cette dquationr
+
+l·- doleri Oppositum. τ. 1. ¹¹
+
+ 
+

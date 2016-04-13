@@ -1,0 +1,56 @@
+96 L. EULERI OPERA POSTHUMA. 1111111111.
+
+289. Cum igitur omnia residua, ex divisione quadratorum 1, l, 9. . .p¹ per numerum primum
+n=ap÷r orta, sint inaequalia, ea ita repraesentemus:
+
+radices 1 2 9 t 5 6 ...... 1
+quadrata 1 b 9 16 25 911 ...... p²
+residua l α n γ d a ...... a
+
+11 multitudo horum residuorum erit =p.
+
+299. Cum jam multitudo omnium numerorum ipso divisore 21-1-1 minorum, qui simul ad
+eum sunt primi, sit =2p‚ patet borum numerorum semissem ex ordine residuorum excludi, quos ideo
+, oon-residua appellemus. Erit ergo multitudo nou-residuorum pariter = p, quae litteris germanicis
+
+11, 216, il, etc. indicemus.
+
+291. Si ergo pro quovis divisore primo 2p÷l haec non-residua invenerimus, 1111111111
+poterimus, nullum dari numerum quadratum 11, ita 11111-11 esset per 21-1-1 divisibile, deno-
+tante 11 non-residuum quodcunque. Ac tales formulae 11 -1111121-11 individuae tot semper
+11111111 possunt, quot p continet unitates.
+
+292. Pro quovis ergo divisore primo 2p÷1 numeri ipso minores distinguuntur in duas classes,
+quarum altera residua, altera 1110 non-residua complectitur, 11 utraque totidem continet numeros,
+111 11 quasi cuivis residuo suum respondeat non-residuum. indolem ergo harum duarum classium
+
+accuratius scrutari conveniet
+
+299. Si in ordine residuorum occurrant duo numeri m et n, 11 eodem quoqne occurret eorum
+. productum mn, scu residuum ei aequivalens. Oriatur enim residuum 11111 quadrato e¹ et n 11 b¹,
+atque 11 11111110 e²b², quod pariter est quadratum, orietur residuum mn.
+
+291. Si ergo inter residua sit numerus quicunque m, ibidem quoque reperientur omnes eJus
+potestates ·m¹, ιη’, m‘, etc, 111 residua iis aequivalentia. Tum vero si praeterea adsit numerus 11,
+
+11 eodem residuorum ordine quoque aderunt numeri mn, m²n‚ mn¹ 1111 genere ml‘n'.
+
+295. Ordo ergo residuorum 1, α, β, 1....11, 111 quovis divisore prium 21-1-1,111111-
+signem habet proprietatem, utin eodem quoque producta 11 11111 pluribusve terminia quibuscunque
+occurrant, siquidem secundum indolem residuorum ad minimos valeres 1111111111.
+
+296. Η11 10 magis est notatu dignum, quod ordo residuorum determinato terminorum numero
+constat, quorum scilicet numerus tantum sit =p, exclusis'totidem numeris non-residuis. 1111 tamen
+101 obstante, quomodocunque residua per multiplicationem inter se combinentur, 111111 perpetuo
+numeri in eodem ordine jam contenti occununt.
+
+297. Sit na numerus quicunque in ordine residuorum occurrens, divisore 111111 existente 21-1- 1,
+11 11111 vidimus, si termini progressionis 'geometricae l, m, ιη’, ιη’, m⁴, etc. per 2p÷l dividantur,
+puter residua quoque omnia producta 11 11111 111111111; sicque in residuis barum potestatum nulli
+occurrent numeri, qui uon simul in residuis quadratorum reperiantur.
+
+299. Cum igitur multitudo residuorum, 11 potestatibus oriundcrum, superare nequeat multitudinem
+11 quadratis ortorum, quae est =p, manifestum est vel potestatem md, vel adhuc inferiorem residuum
+
+ 
+

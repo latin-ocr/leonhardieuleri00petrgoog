@@ -1,0 +1,59 @@
+g · 1111111 1111111111111. orama
+
+52. Si indolem numerorum attentius contemplemur, facilc percipiemus, ab initio numeros primos
+frequentissime occurrere, compositos autem rarissime interspersos esse debere. Quo longius autem
+progrediamur, eo plures reperientur numeri compositi, contra autem pauciores primi. ’
+
+59. Deinde etiam notari oportet iu progressione numerorum primorum 1, 2, 3, 5, 7, 11, 13,
+17, 19111. nullum plane ordinem apparere, unde lex hujus progressionis deliniri possit, etiamsi in
+genere certum sit, quo longius progrediamur, minus trequentes eos esse debere. =
+
+st. Tabulae habentur, in quibus numeri primi secundum centurias sunt dispositi3 atque iu
+prima centuria ab 1 ad 1001111 26 numeri primi, in secunda 21, 11 sequentibus vero pauciores; '
+neque tamen eorum multitudo continuo minuitur, sed potius admodum irregulariter modo crescit,
+modo decrescit. Sic 1200 11 300 occurrunt 16 numeri primi, at a 100 ad 500 1111 17, totidemque
+vadbuc a 1100 11 1500. Porro a 79700 11 79600 tres tantum reperiuntur numeri primi; boc ,tamen
+nonobstante in centuria a 90000 ad 90100 adbuc 11 numeri primi deprehenduntur.
+
+-Q-
+
+Caput Π.
+
+De divisoribus numerorum.
+
+55. Quatenus quidam uumerus est multiplum alius numeri, eatenus bic illius dicitur divisor,
+et index multiplicitatis vocari solet quotus ex divisione ortus.
+
+56. 111 si numerus N luerit multiplum ipsius a, indice existente n, ut sit Ν =nu, numerus
+u erit divisor numeri N, 11 index 1 1111111111111111. Scilicet si numerus N=oc per 1 dividatur,
+quotus erit n. '
+
+57. Cum numeri n et u inter se sint permutabiles, hocque respectu lautores appellentur,
+urrmerus N :reu etiam divisorem habebit 1, quotusque tum erit¹ α. 11 genere ergo divisor per
+quotum multiplicatus ipsum numerum divisum reproducit.
+
+’ 58. Cum quilibet numerus sit sui ipsius simplum, unitas cujusque numeri est divisor, ipseque
+
+. numerus quotus. Tum vero quilibet numerus est sui ipsius divisor, quoto existente unitate. Ι
+
+59. Quilibet crgo numerus N primo unitatem pro divisore babet, eritque tum ipse numerus N
+quotus. Deinde etiam quilibet numerus Nsc ipsum habet pro divisore, quoto existente unitate.
+
+60. Ν11111 numerus alios b'abet divisores, nisi quorum-est multiplum (simplo ex idea multipli ’
+hicnon excluso); sienim alium haberet divisorem, Ι1ο ipsu bajus iuturus¹ 11111 multiplum, quoto
+praebente iudicem multipli. . ¹
+
+61. Cum igitur numerus primus nullius. alius numeri, praeter unitatem, sit multiplum, numerus
+· primus alios non babet divisores, praeter unitatem 11 seipsum. Scilicet si p denotet numerum
+primum, ejus divisores erunt 1 11 p, neque praeter bos ullos babet alios. ⁷ Ι
+
+se, Numeri ergoprimi, seu primae classis, duos tanturn babent divisores, excepta unitate,
+quippe quae unicum babet3 quam ob 1111111 etiam unitas numeris¹ primis nou accenseri solet.
+
+69. Numeri secundae classis, qui constant duobus factoribus primis pq, quia sunt multipla
+utriusque, praeter divisores i et pq etiam divisores babent p et q, lta ut omues corum divisores
+
+1111 1, p, q et pq.
+
+ 
+

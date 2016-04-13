@@ -1,0 +1,55 @@
+22 L. EULERI OPERA POSTHUMA. mmm·
+
+¹¹12. Si divisor d et differentia progressionis b luerint 11111111 primi iuter se, primurn 1111111111
+1 aute non recurrit, quam intermino ‹ss-dn si enim ex termino quodam antecedente resultaret, poto
+1-1-111- n) b, esset (d-u)l, ac proinde 111111 nl> per d divisibile. ideoque etiam 1, quod leret
+absurdum.
+
+173. Ad definienda erqo residua considerari oportet terminos progressionis,a primun uque
+ad o-r- (d- l) b, quorum multitudo ost d, quos terminos ordine dispositos cun suis residuis ila
+repraesentemus: Ι .
+ludices: 1, 2, 3, 1, 5, ’ d
+Progressio: o, 1-1-11, 1-1-211, 1-1-311, 1-1-11 ........... o-r-(d-l)l ’
+llesidua: 1, β, γ, d, 1, λ
+
+ill. Primum ergo observo cuneta 11111 residua, qnorum multitudo est=d, interseessediversa.
+Quemadmodum enim primum 1 111 amplius occurrere ostensum est, 1111111111 secundum β semel
+tantum adesse docetur. Si enirn 1111111111 1-1-111, existente u <11, idem oriretur residuum, loret
+differentia terminorum (11- l) oper d divisibilis, ideoque 111-1, quod repugnat.
+
+175. Cum igitur 111111111111111,β, y, (1,. . . ,λ 1111 11111 1111111111, eorumque multitudo
+sit = d, inter 11 omnes numeri ipso d minores una cum cyphra occurrent, numeri scilieet
+ll, 1, 2, 3,. . . .(d- 1) occurrent, quorum multitudo pariter est =d.
+
+176. 01111 11 1 luerit numerus quicunque minor quom divisor d, dabitur certo progressionis
+
+terminus o-s-nb, existento n < d, qni perd divisus relinquat residuum r. Ao sumto r==ll,
+dabitur ejusmodi terminus o-r-nd per d divisibilis.
+
+177. Si terminus o-r-nb residuum praebeat r, 1111 1-1-111-1 per ddirisibile. Unde sin
+et d sint numeri inter se primi, et 1- 1 denotet numerum quemcunque, sempor dabitur numerus
+11 minor quam d, ita ut numerus 1-1-1-111 [iat por d divisibilis.
+
+l'lli. Sit 1-1-1111 terminus per d divisibilis, existente 11 < d, ac terminus sequens 1-1-(11-1-1)11
+residuum dabit 11, praecedens roro c-r-lm-l)d residuum -e-b, seu d-b. Sit porro o-e-ot
+terminus, q‘ul perd divisus unitatem relinquat, atquo illo numero hinc ablato differentia (ιι-101
+otiam unitatem relinquet
+
+11711. Ρ11111111-11ερ, 1111111111ρὸ per ddirisns unitatem relinquat, sumtoque termino
+1-1-111 per 11 divisibili, termino 1-1- (11-1-ρ)ὁ conveniet residuum = 1, termino 1-1- (11-1-211111
+residuum = 2, termino 1-1-(11-1- 31111 residuum =³, 11 11 genere termino u-s-(rn-s-npld
+residuum ε n. ’
+
+180. Si m÷np luerit majus divisore d, hic toties inde auferatur, donec remaneat numerus
+t<u‚ ot terminus a÷to perd divisus relinquet residuum = 1.
+
+1811 Facilius 111111 termini data residua relinquentes deliniri possunt, dnm innotuerit pro-
+ductum pb, qnod perd divisum relinquat unitatem. Cum enim terminus primus 1 relinquat α, ter·
+uuus o÷upt relinquet 1-1-11. ’
+
+’ 182. 811131 datum residuum luerit = r, ponatur 11131111111ε1-α,11111111,
+terminus residuum rpraebens 1111 1-1-(1- olom rel etiam generaliter 1-1- ((1-α) pss pel) l,
+ubi μ ita assumere lieet, ut [111 (1-1) [1-1.μά (d.
+
+ 
+
